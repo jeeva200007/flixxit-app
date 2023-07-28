@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Flixxit
+
+#### Simple OTT app which have movies list and datails.
+
+#### Getting started with create-react-app.
+
+#### Modified the index.js , App.js and index.css as a wish.
+
+#### Installed important components like axios, @redux/toolkit, firebase, react-redux, react-icons, styled-components etc,.
+
+#### Created a pages, components, store and utils in src folder.
+
+#### separated a components as navbar, cardSlider, movieCards etc.,
+
+#### created pages as Home, signup and login
+
+#### Using Firebase Authentication created a Signup and Login Pages.
+
+#### Using Moviesdb website's api fetched Api.
